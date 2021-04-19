@@ -11,9 +11,9 @@ Most lectures will feature interactive activities and/or polls that support the 
 If you join class in person, you are strongly encouraged to bring your laptop or phone to class so that you can participate in the activities.
 
 ## Grading
-30% Homework
-50% Final Project
-20% Participation
+* 30% Homework
+* 50% Final Project
+* 20% Participation
 
 ## Classroom Environment
 
