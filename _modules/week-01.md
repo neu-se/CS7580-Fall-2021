@@ -1,12 +1,7 @@
 ---
-title: Introduction to Program Analysis in Java
+title: 0. Introduction to Program Analysis and Testing Topics
 ---
 
 Sep 10
 : Course Overview
-: Introduction to Program Analysis
-
-Sep 14
-: Code coverage 
-: **Lab**{: .label .label-purple } [Implementing Coverage Agents](#)
-
+: Software Testing Basics, Intro to Program Analysis
