@@ -1,9 +1,9 @@
 ---
-title: 8. Harnesses - Test Generation
+title: 8. Test Oracles - Security
 ---
 
-Nov 9
-: [Feedback-directed Random Test Generation](https://homes.cs.washington.edu/~mernst/pubs/feedback-testgen-icse2007.pdf) Pacheco et al, ICSE 2007
+Nov 2
+: [Automatic Creation of SQL Injection and Cross-Site Scripting Attacks](https://homes.cs.washington.edu/~mernst/pubs/create-attacks-tr054.pdf), Kieżun et al, ICSE 2009
 
-Nov 12
-: [Evolutionary Generation of Whole Test Suites](https://www.evosuite.org/wp-content/papercite-data/pdf/qsic11.pdf) Fraser and Arcuri, QISC 2011
+Nov 5
+: [HotFuzz: Discovering Algorithmic Denial-of-Service Vulnerabilities Through Guided Micro-Fuzzing](https://wcventure.github.io/FuzzingPaper/Paper/NDSS20_HotFuzz.pdf) Blair et al, NDSS 2020

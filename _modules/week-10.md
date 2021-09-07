@@ -1,9 +1,9 @@
 ---
-title: 9. Once you Find a Bug - Debugging
+title: 9. Harnesses - Test Generation
 ---
 
-Nov 16
-: [Debugging Reinvented: Asking and Answering Why and Why Not Questions about Program Behavior](https://faculty.washington.edu/ajko/papers/Ko2008JavaWhyline.pdf) Ko and Myers, ICSE 2008
+Nov 9
+: [Feedback-directed Random Test Generation](https://homes.cs.washington.edu/~mernst/pubs/feedback-testgen-icse2007.pdf) Pacheco et al, ICSE 2007
 
-Nov 19
-: [Debugging Inputs](https://publications.cispa.saarland/3060/1/camera-ready-submission.pdf) Kirschner et al, ICSE 2020
+Nov 12
+: [Evolutionary Generation of Whole Test Suites](https://www.evosuite.org/wp-content/papercite-data/pdf/qsic11.pdf) Fraser and Arcuri, QISC 2011
