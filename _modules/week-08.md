@@ -7,4 +7,4 @@ Oct 26
 
 Oct 29 
 : [Semantic Fuzzing with Zest](https://arxiv.org/pdf/1812.00078.pdf) Padhye et al, ISSTA 2019
-: **Reflection Paper Due** 11:59pm
+: **Project Proposal Due** 11:59pm

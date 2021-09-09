@@ -62,7 +62,8 @@ defaults:
       type: announcements
     values:
       layout: announcement
-
+exclude:
+  - lecture-notes
 compress_html:
   clippings: all
   comments: all

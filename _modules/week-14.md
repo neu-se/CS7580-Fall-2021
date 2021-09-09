@@ -3,7 +3,7 @@ title: 13. Conclusions
 ---
 
 Dec 7
-: Project presentations and discussion
+: Casual project discussions
 : General course discussion
 
 Dec 10
