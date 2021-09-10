@@ -14,6 +14,7 @@ The project will involve a hands-on application of the techniques and tools that
 * AFL++ describes numerous engineering improvements to AFL that make a significant improvement to AFL. There are a number of fuzzers written in other languages, targeting code in Java (e.g. [JQF](https://github.com/rohanpadhye/JQF) and [Jazzer](https://github.com/CodeIntelligenceTesting/jazzer)) in Python (e.g. [Atheris](https://github.com/google/atheris), plus surely many more). Implement one of the features of AFL++ for one of those fuzzers, and evaluate the performance improvement on the fuzzer
 * Exploring mutation testing with flaky tests
 * Combining fuzzing with test harness generation
+* Build a fuzzing harness for Java web apps
 
 We will add to this list throughout the first few weeks of the semester, and students are welcomed to propose project ideas that aren't from this list. Course projects that build on or extend students' projects from outside of the course are welcomed.
 
@@ -64,7 +65,7 @@ To receive the grade of **Check**, the project must satisfy all of these criteri
 * The project report and implementation are submitted on time
 * EITHER:
 	* 1) the project implementation successfully achieves the goals outlined, OR:
-	* 2) the "Project Challenges" section of the report describes in detail the challenges that you faced that prevented you from achieving some goal(s), and the steps that you took to try to overcome those challenges. The record of steps that you took to overcome those challenges is sufficiently detailed to demonstrate that, despite not achieving the goals that you set out, you nonetheless put effort into the project throughout the 5 week project period (as opposed to: "I didn't achieve these goals because I ran out of time and only started the project in the last week").
+	* 2) the "Project Challenges" section of the report describes in detail the challenges that you faced that prevented you from achieving some goal(s), and the steps that you took to try to overcome those challenges. The record of steps that you took to overcome those challenges is sufficiently detailed to demonstrate that you put a good-faith effort into getting it to to work. 
 	
 To receive the grade of **Check-**: the project must satisfy all of these criteria:
 * The project proposal is submitted on time. The proposal is roughly one page long and includes a good-faith effort to address each of the 5 points outlined above.
