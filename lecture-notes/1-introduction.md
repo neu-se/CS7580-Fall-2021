@@ -73,5 +73,5 @@ parent: Lecture Notes
         4. Is future work needed to fit this research prototype into the real world problem domain?
         5. What questions does this paper leave you with?
     6. If you think that you can answer each of these questions, then you have done an excellent job reading the paper. If you don't think you can answer them each (despite re-reading the paper to try to find those answers), that is OK! Not graded weekly on answering these questions - reflection paper will do that, and can pick which papers.
-    7. Suggested further reading on how to read: [https://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html](https://neu-se.github.io/CS7580-Fall-2021/), note-taking template: [https://cseweb.ucsd.edu/~wgg/CSE210/paperform.pdf](https://cseweb.ucsd.edu/~wgg/CSE210/paperform.pdf
+    7. Suggested further reading on how to read: [https://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html](https://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html), note-taking template: [https://cseweb.ucsd.edu/~wgg/CSE210/paperform.pdf](https://cseweb.ucsd.edu/~wgg/CSE210/paperform.pdf
 )
