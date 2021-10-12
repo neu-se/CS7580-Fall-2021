@@ -6,5 +6,5 @@ Oct 19
 : [KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs](https://llvm.org/pubs/2008-12-OSDI-KLEE.pdf) Cadar et al, OSDI 2008
 
 Oct 22 
-: [Billions and Billions of Constraints: Whitebox Fuzz Testing in Production](https://patricegodefroid.github.io/public_psfiles/icse2013.pdf) Bounimova et al, ICSE 2013
+: [On the Techniques We Create, the Tools We Build, and Their Misalignments: A Study of KLEE](https://ieeexplore.ieee.org/document/7886898) Rizzi et al, ICSE 2016 
 : **Reflection Paper Due** 11:59pm
