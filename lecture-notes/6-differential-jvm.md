@@ -2,6 +2,7 @@
 layout: page
 title: Lecture 6 - Chen et al ICSE 2019 Deep Differential JVM Testing
 parent: Lecture Notes
+nav_order: 6
 ---
 # Lesson 6 - Deep differential Testing of JVM Implementations
 

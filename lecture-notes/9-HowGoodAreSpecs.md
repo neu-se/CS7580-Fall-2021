@@ -2,6 +2,7 @@
 layout: page
 title: Lecture 9 - Legunsen et al, ASE '16 How Good Are the Specs? 
 parent: Lecture Notes
+nav_order: 9
 ---
 # Lesson 9 - How Good Are the Specs? A Study of the Bug-Finding Effectiveness of Existing Java API Specifications
 

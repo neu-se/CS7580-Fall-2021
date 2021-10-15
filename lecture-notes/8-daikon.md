@@ -2,6 +2,7 @@
 layout: page
 title: Lecture 8 - Ernst et al, ICSE '99 Dynamically Discovering Likely Program Invariants to Support Program Evolution
 parent: Lecture Notes
+nav_order: 8
 ---
 # Lesson 8 - Dynamically Discovering Likely Program Invariants to Support Program Evolution
 

@@ -2,6 +2,7 @@
 layout: page
 title: Lecture 7 - Donaldson et al OOPSLA 2017 Automated Testing of Graphics Shader Compilers
 parent: Lecture Notes
+nav_order: 7
 ---
 # Lesson 7 - Automated Testing of Graphics Shader Compilers
 

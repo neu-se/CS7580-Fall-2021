@@ -2,6 +2,7 @@
 layout: page
 title: Lecture 4 - Miller et al CACM 1990, "An empirical study of the reliability of UNIX utilities"
 parent: Lecture Notes
+nav_order: 4
 ---
 
 # Lecture 4 - "An Empirical Study of the Reliability of UNIX Utilities"

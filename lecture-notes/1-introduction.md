@@ -2,6 +2,7 @@
 layout: page
 title: Lecture 1 - Introduction and Overview
 parent: Lecture Notes
+nav_order: 1
 ---
 
 # Lecture 1: Introduction and Overview

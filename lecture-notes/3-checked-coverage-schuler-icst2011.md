@@ -2,6 +2,7 @@
 layout: page
 title: Lecture 3 - Schuler & Zeller ICST 2011, Checked Coverage 
 parent: Lecture Notes
+nav_order: 3
 ---
 
 # Lecture 3: "Assessing Oracle Quality with Checked Coverage"

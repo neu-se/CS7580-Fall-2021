@@ -2,6 +2,7 @@
 layout: page
 title: Lecture 5 - AFL
 parent: Lecture Notes
+nav_order: 5
 ---
 
 # Lecture 5- AFL

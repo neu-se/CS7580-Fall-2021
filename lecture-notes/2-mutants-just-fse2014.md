@@ -2,6 +2,7 @@
 layout: page
 title: Lecture 2 - Just et al FSE 2014 Mutants + Real Faults
 parent: Lecture Notes
+nav_order: 2
 ---
 
 # Lecture 2: "Are mutants a valid substitute for real faults in software testing?"
