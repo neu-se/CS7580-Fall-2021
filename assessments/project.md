@@ -53,7 +53,7 @@ While it is possible that you successfully implemented your entire project witho
 In this section, you should describe in detail challenges that you encountered, and what you did to try to work around them. If you ran into implementation-level challenges (e.g. difficulties with particular technologies, unescapable segfaults, etc) describe your hypothesis for *why* you might have run into this challenge, and any steps that you have taken to try to test that hypothesis/debug the situation. This section provides an opportunity for a project that has no working implementation at all to still receive a grade of "check" - if you could never get the project to work, but can describe various steps that you took to debug your project, you are still creating an artifact that demonstrates your understanding of advanced software engineering processes.
 
 ## Final Project Submission
-Create a zip file with your entire implementation, and create a PDF with your report. Submit both on Canvas by December 10th at 11:59pm. No late submissions will be accepted. 
+Create a zip file with your entire implementation, and create a PDF with your report. Submit both on Canvas by December 17th at 11:59pm. No late submissions will be accepted. 
 
 ## Grading Rubric
 Your project will be graded on the scale of (Unacceptable, Check-, Check, Check+). The criteria for each grade are described below:

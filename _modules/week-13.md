@@ -1,9 +1,9 @@
 ---
-title: 12. Once you Find a Bug - Deterministic Reproduction
+title: 12. Once you Find a Bug - Debugging
 ---
 
 Nov 30
-: [Engineering Record And Replay For Deployability](https://www.usenix.org/system/files/conference/atc17/atc17-o_callahan.pdf) O'Callahan et al, USENIX ATC 2017
+: [Evaluating and improving fault localization](https://homes.cs.washington.edu/~rjust/publ/fault_localization_effectiveness_icse_2017.pdf) Pearson et al, ICSE 2017
 
 Dec 3
-: [Making System User Interactive Tests Repeatable](http://www.cs.umd.edu/~atif/pubs/gao-icse15.pdf) Gao et al, ICSE 2015
+: [COZ: Finding Code that Counts with Causal Profiling](http://sigops.org/s/conferences/sosp/2015/current/2015-Monterey/printable/090-curtsinger.pdf) Curtsinger and Berger, SOSP 2015

@@ -3,7 +3,7 @@ title: 11. Once you Find a Bug - Debugging
 ---
 
 Nov 23
-: [Evaluating and improving fault localization](https://homes.cs.washington.edu/~rjust/publ/fault_localization_effectiveness_icse_2017.pdf) Pearson et al, ICSE 2017
+: [Debugging Reinvented: Asking and Answering Why and Why Not Questions about Program Behavior](https://faculty.washington.edu/ajko/papers/Ko2008JavaWhyline.pdf) Ko and Myers, ICSE 2008
 
 Nov 26
-: [COZ: Finding Code that Counts with Causal Profiling](http://sigops.org/s/conferences/sosp/2015/current/2015-Monterey/printable/090-curtsinger.pdf) Curtsinger and Berger, SOSP 2015
+: [Debugging Inputs](https://publications.cispa.saarland/3060/1/camera-ready-submission.pdf) Kirschner et al, ICSE 2020
