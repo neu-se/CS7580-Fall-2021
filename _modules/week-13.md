@@ -1,9 +1,9 @@
 ---
-title: 12. Once you Find a Bug - Debugging
+title: 12. Bonus Fuzzing
 ---
 
 Nov 30
-: [Evaluating and improving fault localization](https://homes.cs.washington.edu/~rjust/publ/fault_localization_effectiveness_icse_2017.pdf) Pearson et al, ICSE 2017
+: [Fuzzing the Rust Typechecker Using CLP](https://sites.cs.ucsb.edu/~benh/research/papers/dewey15fuzzing.pdf) Dewey et al, ASE 2015
 
 Dec 3
-: [COZ: Finding Code that Counts with Causal Profiling](http://sigops.org/s/conferences/sosp/2015/current/2015-Monterey/printable/090-curtsinger.pdf) Curtsinger and Berger, SOSP 2015
+: [JUSTGen: Effective Test Generation for Unspecified JNI Behaviors on JVMs](https://sjmini.github.io/publication/hwangjustgen.pdf) Hwang et al, ICSE 2021

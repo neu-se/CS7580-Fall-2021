@@ -1,9 +1,9 @@
 ---
-title: 13. Once you Find a Bug - Deterministic Reproduction
+title: 13. Automated Program Repair
 ---
 
 Dec 7
-: [Engineering Record And Replay For Deployability](https://www.usenix.org/system/files/conference/atc17/atc17-o_callahan.pdf) O'Callahan et al, USENIX ATC 2017
+: [GenProg: A Generic Method for Automatic Software Repair](https://sjmini.github.io/publication/hwangjustgen.pdf) Le Goues et al, TSE 2012
 
 Dec 10
-: [Making System User Interactive Tests Repeatable](http://www.cs.umd.edu/~atif/pubs/gao-icse15.pdf) Gao et al, ICSE 2015
+: [An Analysis of Patch Plausibility and Correctness for Generate-and-Validate Patch Generation Systems](https://www.cs.toronto.edu/~fanl/papers/kali-issta2015.pdf) Qi et al, ISSTA 2015
